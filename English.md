@@ -1,5 +1,5 @@
 # K3NG - K5BCQ cw_keyer
-<p><a href="https://github.com/costonisp/k3ng_cw_keyer/blob/master/Nederlands.md">Link  naar de Nederlandse Readme file.</a></p>
+<p><a href="https://github.com/costonisp/CW-keyer-K3NG-K5BCQ/blob/master/Nederlands.md">Link  naar de Nederlandse Readme file.</a></p>
 
 This fork of the K3NG Keyer is prepared for a group of PI4DEC members who made this project with K5BCQ hardware.
 The software documentation is located here:  https://github.com/k3ng/k3ng_cw_keyer/wiki
