@@ -40,3 +40,5 @@ The LID : https://www.tinkercad.com/things/4jNfGvMzsKl-lid-on-box-k3ng-k5bcq-key
 
 
 THIS PAGE IS A WORK IN PROGRESS.........
+
+https://www.conrad.nl/p/bopla-gewindebuchsen-dodge-m3x65-draadbus-messing-messing-1-stuks-540005
