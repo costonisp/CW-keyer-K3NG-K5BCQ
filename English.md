@@ -19,14 +19,14 @@ The schematic:
 
 When studying the schematic, we at PI4DEC were suspicious of the use of R23 (100 ohm) in the audio input circuit, the so called Goertzel Filter, where it is parallel to C6 (0.1uF). It does not look right to have a resistor at this place because it will pull the bias voltage at analog input A0 lower. Normally this bias voltage should be 1/2 Vcc or 2.5 volt. Because of the DC path to ground over R23 and potmeter R8 (20K) the bias will go below 2 volt depending on the setting of R8.
 <p></p>
-https://github.com/costonisp?tab=repositories
+
 So we have tested de decoding circuit with and without R23 while potmeter R8 was set halfway. It appeared that removing R23 worked positively out on the decoding quality. So we advice to not use or remove resistor R23
 
 
 
 A 3D-PRINT BOX for the keyer:
 
-<p><img src="https://github.com/costonisp/CW-keyer-K3NG-K5BCQ/blob/master/k5bcq.jpg" alt="3D prototype box" style="max-width:100%;"></a></p> 
+<p><img src="https://github.com/costonisp/CW-keyer-K3NG-K5BCQ/blob/master/images/prototype.jpg" alt="3D prototype box" style="max-width:100%;"></a></p> 
 
 This is the 3D-box prototype, not very beatifull printed but it fits very well.
 <p><img src="https://tweakers.net/ext/f/EGXxkDKps2yvm56MR3zzpouV/full.jpg"></P>
