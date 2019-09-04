@@ -36,5 +36,5 @@ Hastje: https://www.tinkercad.com/things/8LZc6XmkHG3-box-for-k3ng-k5bcq-cw-keyer
 Deksel : https://www.tinkercad.com/things/4jNfGvMzsKl-lid-on-box-k3ng-k5bcq-keyer
 
 
-Werk in uitvoering.
+Werk in uitvoering..........
 
