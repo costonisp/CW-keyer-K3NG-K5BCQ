@@ -26,7 +26,7 @@ So we have tested de decoding circuit with and without R23 while potmeter R8 was
 
 A 3D-PRINT BOX for the keyer:
 
-<p><a target="_blank" rel="noopener noreferrer" href="https://tweakers.net/ext/f/4uz7q5ou7S5ftBeucGr7EiRL/full.jpg"><img src="" alt="3D prototype box" style="max-width:100%;"></a></p> 
+<p><img src="https://github.com/costonisp/CW-keyer-K3NG-K5BCQ/blob/master/k5bcq.jpg" alt="3D prototype box" style="max-width:100%;"></a></p> 
 
 This is the 3D-box prototype, not very beatifull printed but it fits very well.
 <p><img src="https://tweakers.net/ext/f/EGXxkDKps2yvm56MR3zzpouV/full.jpg"></P>
