@@ -9,6 +9,6 @@ A 3D-PRINT BOX for the keyercan be found on Tinkercad.com
 <p><img src="https://github.com/costonisp/CW-keyer-K3NG-K5BCQ/images/medium.jpg" alt="3D prototype box" style="max-width:100%;"></a></p> 
 
 This is the 3D-box prototype, not very beatifull printed but it fits very well.
-<p><img src="https://tweakers.net/ext/f/EGXxkDKps2yvm56MR3zzpouV/full.jpg"></P>
+<p><img src="https://github.com/costonisp/CW-keyer-K3NG-K5BCQ/images/"></P>
 
 
