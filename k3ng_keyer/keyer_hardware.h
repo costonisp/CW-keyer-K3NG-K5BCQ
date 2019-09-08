@@ -5,9 +5,6 @@
 */
 
 #define HARDWARE_K5BCQ   // edit these files: keyer_pin_settings_k5bcq.h, keyer_features_and_options_k5bcq.h, keyer_settings_k5bcq.h 
-// #define HARDWARE_TEST_EVERYTHING
-// #define HARDWARE_TEST
-
 
 #define PRIMARY_SERIAL_CLS HardwareSerial
 #define SECONDARY_SERIAL_CLS HardwareSerial 
