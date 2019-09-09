@@ -1,4 +1,4 @@
-# K3NG - K5BCQ cw_keyer
+# K3NG - K5BCQ cw keyer
 <p><a href="https://github.com/costonisp/CW-keyer-K3NG-K5BCQ/blob/master/Nederlands.md">Link  naar de Nederlandse Readme file.</a></p>
 <p><a href="https://github.com/costonisp/CW-keyer-K3NG-K5BCQ/blob/master/English.md">Link  to the English Readme file.</a></p>
 
