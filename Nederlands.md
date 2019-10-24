@@ -31,7 +31,7 @@ Dit is het 3D geprintte prototype v/h kastje, niet erg mooi geprint maar de maat
 
 The files voor ket kastje en de deksel staan op Tinkercad.com
 
-Hastje: https://www.tinkercad.com/things/8LZc6XmkHG3-box-for-k3ng-k5bcq-cw-keyer
+Kastje: https://www.tinkercad.com/things/8LZc6XmkHG3-box-for-k3ng-k5bcq-cw-keyer
 
 Deksel : https://www.tinkercad.com/things/4jNfGvMzsKl-lid-on-box-k3ng-k5bcq-keyer
 
