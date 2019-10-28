@@ -37,8 +37,9 @@ Kastje   : https://www.tinkercad.com/things/8LZc6XmkHG3-box-for-k3ng-k5bcq-cw-ke
 <p><img src="https://github.com/costonisp/CW-keyer-K3NG-K5BCQ/blob/master/images/deksels.jpg" alt="3D prototype box" style="max-width:100%;"></a></p> 
 Indien de as van de rotary encoder te kort is gebruik dan deksel2 met een groter gat, zodat een 14mm diameter knop verzonken op de as past.
 
-Deksel-1 : https://www.tinkercad.com/things/4jNfGvMzsKl-lid-on-box-k3ng-k5bcq-keyer
-Deksel-2 : https://www.tinkercad.com/things/jEVnRsXiihz-lid-big-hole-k3ng-k5bcq-keyer
+Deksel-1: https://www.tinkercad.com/things/4jNfGvMzsKl-lid-on-box-k3ng-k5bcq-keyer
+
+Deksel-2: https://www.tinkercad.com/things/jEVnRsXiihz-lid-big-hole-k3ng-k5bcq-keyer
 
 In de rand v/h kastje zijn gaten voorzien waarin deze draadbussen passen:
 
