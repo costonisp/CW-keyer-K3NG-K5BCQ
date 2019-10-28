@@ -34,12 +34,12 @@ The files voor ket kastje en de deksel staan op Tinkercad.com
 Kastje   : https://www.tinkercad.com/things/8LZc6XmkHG3-box-for-k3ng-k5bcq-cw-keyer
 
 Deksel-1 : https://www.tinkercad.com/things/4jNfGvMzsKl-lid-on-box-k3ng-k5bcq-keyer
-<p><img src="https://github.com/costonisp/CW-keyer-K3NG-K5BCQ/blob/master/images/deksel1.jpg" alt="3D prototype box" style="max-width:100%;"></a></p> 
+<p><img src="https://github.com/costonisp/CW-keyer-K3NG-K5BCQ/blob/master/images/deksel1.jpg" alt="3D prototype box" style="max-width:100%;"></a><img src="https://github.com/costonisp/CW-keyer-K3NG-K5BCQ/blob/master/images/deksel2.jpg" alt="3D prototype box" style="max-width:100%;"></a></p> 
 Indien de as van de rotary encoder te kort is gebruik dan deze deksel met een groter gat, zodat een 14mm diameter knop verzonken op de as past.
 
 
 Deksel-2 : https://www.tinkercad.com/things/jEVnRsXiihz-lid-big-hole-k3ng-k5bcq-keyer
-<p><img src="https://github.com/costonisp/CW-keyer-K3NG-K5BCQ/blob/master/images/deksel2.jpg" alt="3D prototype box" style="max-width:100%;"></a></p> 
+
 In de rand v/h kastje zijn gaten voorzien waarin deze draadbussen passen:
 
 https://www.conrad.nl/p/bopla-gewindebuchsen-dodge-m3x65-draadbus-messing-messing-1-stuks-540005
