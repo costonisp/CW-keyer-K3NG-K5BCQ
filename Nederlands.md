@@ -31,9 +31,9 @@ Dit is het 3D geprintte prototype v/h kastje, niet erg mooi geprint maar de maat
 
 The files voor ket kastje en de deksel staan op Tinkercad.com
 
-Kastje: https://www.tinkercad.com/things/8LZc6XmkHG3-box-for-k3ng-k5bcq-cw-keyer
+Kastje   : https://www.tinkercad.com/things/8LZc6XmkHG3-box-for-k3ng-k5bcq-cw-keyer
 
-Deksel : https://www.tinkercad.com/things/4jNfGvMzsKl-lid-on-box-k3ng-k5bcq-keyer
+Deksel-1 : https://www.tinkercad.com/things/4jNfGvMzsKl-lid-on-box-k3ng-k5bcq-keyer
 
 Indien de as van de rotary encoder te kort is gebruik dan deze deksel met een groter gat, zodat een 14mm diameter knop verzonken op de as past.
 
