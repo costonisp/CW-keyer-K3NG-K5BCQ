@@ -6,7 +6,7 @@ Software documentatie staat hier:  https://github.com/k3ng/k3ng_cw_keyer/wiki
 Hardware documentatie staat hier: https://www.qsl.net/k5bcq/Kits/Keyer.pdf
 
 De gebruikte PCB:
-<p><a target="_blank" rel="noopener noreferrer" href="https://tweakers.net/ext/f/6bzPBrxRlagxyuC68xlKo4fC/full.jpg"><img src="https://tweakers.net/ext/f/6bzPBrxRlagxyuC68xlKo4fC/medium.jpg" alt="K5BCQ - PCB" style="max-width:100%;"></a></p>   
+<p><a target="_blank" rel="noopener noreferrer" href="https://github.com/costonisp/CW-keyer-K3NG-K5BCQ/blob/master/images/pcb_layout.jpg"><img src="https://tweakers.net/ext/f/6bzPBrxRlagxyuC68xlKo4fC/medium.jpg" alt="K5BCQ - PCB" style="max-width:100%;"></a></p>   
 <p></p> 
 
 
