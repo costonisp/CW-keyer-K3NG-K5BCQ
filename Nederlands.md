@@ -1,5 +1,5 @@
 
-Deze 'fork' van de K3NG Keyer is gemaakt voor een groep PI4DEC leden dit project gemaakt hebben met de K5BCQ pcb.
+Deze 'fork' van de K3NG Keyer is gemaakt voor een groep PI4DEC leden die dit project gemaakt hebben met de K5BCQ pcb.
 
 Software documentatie staat hier:  https://github.com/k3ng/k3ng_cw_keyer/wiki
 
@@ -15,10 +15,10 @@ De PCB kan besteld worden bij K5BCQ :  https://www.qsl.net/k5bcq/Kits/Kits.html
 Het schema:
 <p><a target="_blank" rel="noopener noreferrer" href="https://tweakers.net/ext/f/elTAO6eseECHqjtvumKuSjQS/full.jpg"><img src="https://tweakers.net/ext/f/elTAO6eseECHqjtvumKuSjQS/medium.jpg" alt="Schematic" style="max-width:100%;"></a></p>   
 
-Tijdens het bekijken van het schema vonden sommige PI4DEC leden de functie van R23 (100 ohm) in het audio input circuit raadselachtig. In het schema is dit aangegeven als een zgn. Goertzel Filter, R23 parallel met C6 (0.1uF). De aanwezigheid van R23 hier lijkt nutteloos of zelfs foutief omdat deze de biasspanning op analoge ingang A0 omlaag trekt. Normaal is deze bias spanning 1/2 Vcc of 2.5 volt. Omdat R23 i.c.m. potmeter R8 een DC pad naar massa geeft zal de bias onder 2 volt gaan, afhankelijk van de stand van R8.
+Tijdens het bekijken van het schema vonden enige PI4DEC leden de functie van R23 (100 ohm) in het audio input circuit raadselachtig. In het schema is dit aangegeven als een Goertzel Filter, R23 parallel met C6 (0.1uF). De aanwezigheid van R23 hier lijkt nutteloos of zelfs foutief omdat deze de biasspanning op analoge ingang A0 omlaag trekt. Normaal is deze bias spanning 1/2 Vcc of 2.5 volt. Omdat R23 i.c.m. potmeter R8 een DC weg naar massa geeft zal de bias onder 2 volt gaan, afhankelijk van de stand van R8. 
 <p></p>
 
-We hebben wat testen gedaan met en later zonder R23 terwijl potmeter R8 halverwege stond. Bij drie verschillende boards bleek dat het weghalen van R23 positief uitwerkte op de decodeer eigenschappen. Daarom raad ik aan om R23 niet te monteren of indien reeds geplaatst deze te verwijderen. R23 op deze plaats is nutteloos en doet meer kwaad dan goed.
+We hebben wat testen gedaan met en later zonder R23 terwijl potmeter R8 halverwege stond. Bij drie verschillende boards bleek dat het weghalen van R23 positief uitwerkte op de decodeer kwaliteit. Daarom raad ik aan om R23 niet te monteren of indien reeds geplaatst deze te verwijderen. R23 op deze plaats is nutteloos en doet meer kwaad dan goed.
 
 
 
@@ -26,7 +26,7 @@ Een 3D-PRINT BOX voor de keyer:
 
 <p><img src="https://github.com/costonisp/CW-keyer-K3NG-K5BCQ/blob/master/images/prototype.jpg" alt="3D prototype box" style="max-width:100%;"></a></p> 
 
-Dit is het 3D geprintte prototype v/h kastje, niet erg mooi geprint maar de maat is goed en de print met display past exact.
+Dit is het 3D geprintte prototype v/h kastje, die exemplaar is niet erg mooi geprint maar de maatvoering is goed en de print met display past exact.
 
 
 The files voor ket kastje en de deksel staan op Tinkercad.com
@@ -45,4 +45,4 @@ In de rand v/h kastje zijn gaten voorzien waarin deze draadbussen passen:
 
 https://www.conrad.nl/p/bopla-gewindebuchsen-dodge-m3x65-draadbus-messing-messing-1-stuks-540005
 
-Zodat het deksel met M3 boutjes  vastgezet wordt.
+Zodat het deksel met M3 boutjes vastgezet kan worden.
