@@ -6,7 +6,7 @@ Software documentatie staat hier:  https://github.com/k3ng/k3ng_cw_keyer/wiki
 Hardware documentatie staat hier: https://www.qsl.net/k5bcq/Kits/Keyer.pdf
 
 De gebruikte PCB:
-<p><a target="_blank" rel="noopener noreferrer" href="https://github.com/costonisp/CW-keyer-K3NG-K5BCQ/blob/master/images/pcb_layout.jpg"><img src="https://tweakers.net/ext/f/6bzPBrxRlagxyuC68xlKo4fC/medium.jpg" alt="K5BCQ - PCB" style="max-width:100%;"></a></p>   
+<p><a target="_blank" rel="noopener noreferrer" href="https://github.com/costonisp/CW-keyer-K3NG-K5BCQ/blob/master/images/pcb_layout.jpg"><img src="https://github.com/costonisp/CW-keyer-K3NG-K5BCQ/blob/master/images/pcb-thumbnail.jpg" alt="K5BCQ - PCB" style="max-width:100%;"></a></p>   
 <p></p> 
 
 
@@ -24,8 +24,6 @@ We hebben wat testen gedaan met en later zonder R23 terwijl potmeter R8 halverwe
 
 Een 3D-PRINT BOX voor de keyer:
 
-
-<p><a target="_blank" rel="noopener noreferrer" href="https://github.com/costonisp/CW-keyer-K3NG-K5BCQ/blob/master/images/Schematic_BIG-Keyer_Sheet-1_20190329121109.pdf"><img src="https://github.com/costonisp/CW-keyer-K3NG-K5BCQ/blob/master/images/schematic-thumbnail.jpeg" style="max-width:100%;"></a></p>   
 
 
 <p><img src="https://github.com/costonisp/CW-keyer-K3NG-K5BCQ/blob/master/images/photo-1.jpg" alt="3D prototype box" style="max-width:100%;"></a></p> 
