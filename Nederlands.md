@@ -23,7 +23,7 @@ We hebben wat testen gedaan met en later zonder R23 terwijl potmeter R8 halverwe
 
 
 Een 3D-PRINT BOX voor de keyer:
-
+white-space:nowrap;
 
 <p><a target="_blank" rel="noopener noreferrer" href="https://github.com/costonisp/CW-keyer-K3NG-K5BCQ/blob/master/images/photo-1.jpg"><img src="https://github.com/costonisp/CW-keyer-K3NG-K5BCQ/blob/master/images/photo-1tn.jpg" alt="3D prototype box" style="max-width:100%;">
 
