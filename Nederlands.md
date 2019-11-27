@@ -26,8 +26,10 @@ Een 3D-PRINT BOX voor de keyer:
 
 
 
-<p><img src="https://github.com/costonisp/CW-keyer-K3NG-K5BCQ/blob/master/images/photo-1.jpg" alt="3D prototype box" style="max-width:100%;"></a></p> 
-<p><img src="https://github.com/costonisp/CW-keyer-K3NG-K5BCQ/blob/master/images/photo-2.jpg" alt="3D prototype box" style="max-width:100%;"></a></p> 
+<p><a target="_blank" rel="noopener noreferrer" href="https://github.com/costonisp/CW-keyer-K3NG-K5BCQ/blob/master/images/pcb_layout.jpg"><img src="https://github.com/costonisp/CW-keyer-K3NG-K5BCQ/blob/master/images/pcb-thumbnail.jpeg" alt="K5BCQ - PCB" style="max-width:100%;"></a></p>   
+
+<p><img src="https://github.com/costonisp/CW-keyer-K3NG-K5BCQ/blob/master/images/photo-1tn.jpg" alt="3D prototype box" style="max-width:100%;"></a></p> 
+<p><img src="https://github.com/costonisp/CW-keyer-K3NG-K5BCQ/blob/master/images/photo-2tn.jpg" alt="3D prototype box" style="max-width:100%;"></a></p> 
 Dit is het 3D geprintte kastje, de deksel is met een primer-spuitbus gespoten.
 
 
