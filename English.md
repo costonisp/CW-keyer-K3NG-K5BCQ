@@ -15,7 +15,7 @@ The used PCB:
 The PCB can be ordered from K5BCQ here:  https://www.qsl.net/k5bcq/Kits/Kits.html
 <p></p> <p></p> 
 The schematic:
-<p><a href="images/Schematic_BIG-Keyer_Sheet-1_20190329121109.pdf"><img src="https://tweakers.net/ext/f/elTAO6eseECHqjtvumKuSjQS/medium.jpg"></a></p>   
+<p><a href="images/Schematic.pdf"><img src="images/SchematicTN.jpg"></a></p>   
 
 When studying the schematic, we at PI4DEC were suspicious of the use of R23 (100 ohm) in the audio input circuit, the so called Goertzel Filter, where it is parallel to C6 (0.1uF). It does not look right to have a resistor at this place because it will pull the bias voltage at analog input A0 lower. Normally this bias voltage should be 1/2 Vcc or 2.5 volt. Because of the DC path to ground over R23 and potmeter R8 (20K) the bias will go below 2 volt depending on the setting of R8.
 <p></p>
