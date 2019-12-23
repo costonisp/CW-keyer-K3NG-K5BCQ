@@ -24,7 +24,7 @@ We hebben wat testen gedaan met en later zonder R23 terwijl potmeter R8 halverwe
 
 Een 3D-PRINT BOX voor de keyer:
 
-<p><a href="images/photo-1.jpg"><img src="images/photo-1tn.jpg" alt="3D prototype box" style="max-width:100%;"><a href="images/photo-2.jpg"><img src="images/photo-2tn.jpg" alt="3D prototype box" style="max-width:100%;"></a></p> 
+<p><a href="images/photo-1.jpg"><img src="images/photo-1tn.jpg"><a href="images/photo-2.jpg"><img src="images/photo-2tn.jpg"></a></p> 
 Dit is het 3D geprintte kastje, de deksel is met een primer-spuitbus gespoten.
 
 
@@ -33,7 +33,7 @@ The files voor ket kastje en de deksel staan op Tinkercad.com
 Kastje   : https://www.tinkercad.com/things/8LZc6XmkHG3-box-for-k3ng-k5bcq-cw-keyer
 
 
-<p><img src="images/deksels.jpg" alt="3D prototype box" style="max-width:100%;"></a></p> 
+<p><img src="images/deksels.jpg" alt="3D prototype box"></a></p> 
 Indien de as van de rotary encoder te kort is gebruik dan deksel2 met een groter gat, zodat een 14mm diameter knop verzonken op de as past.
 
 Deksel-1: https://www.tinkercad.com/things/4jNfGvMzsKl-lid-on-box-k3ng-k5bcq-keyer

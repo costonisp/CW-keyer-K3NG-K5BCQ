@@ -8,14 +8,14 @@ The software documentation is located here:  https://github.com/k3ng/k3ng_cw_key
 The hardware documentation can be found here: https://www.qsl.net/k5bcq/Kits/Keyer.pdf
 
 The used PCB:
-<p><a href="https://tweakers.net/ext/f/6bzPBrxRlagxyuC68xlKo4fC/full.jpg"><img src="https://tweakers.net/ext/f/6bzPBrxRlagxyuC68xlKo4fC/medium.jpg" alt="K5BCQ - PCB" style="max-width:100%;"></a></p>   
+<p><a href="images/pcb_layout.jpg"><img src="images/pcb-thumbnail.jpeg" alt="K5BCQ - PCB" style="max-width:100%;"></a></p>   
 <p></p> 
 
 
 The PCB can be ordered from K5BCQ here:  https://www.qsl.net/k5bcq/Kits/Kits.html
 <p></p> <p></p> 
 The schematic:
-<p><a href="https://tweakers.net/ext/f/elTAO6eseECHqjtvumKuSjQS/full.jpg"><img src="https://tweakers.net/ext/f/elTAO6eseECHqjtvumKuSjQS/medium.jpg" alt="Schematic" style="max-width:100%;"></a></p>   
+<p><a href="images/Schematic_BIG-Keyer_Sheet-1_20190329121109.pdf"><img src="https://tweakers.net/ext/f/elTAO6eseECHqjtvumKuSjQS/medium.jpg"></a></p>   
 
 When studying the schematic, we at PI4DEC were suspicious of the use of R23 (100 ohm) in the audio input circuit, the so called Goertzel Filter, where it is parallel to C6 (0.1uF). It does not look right to have a resistor at this place because it will pull the bias voltage at analog input A0 lower. Normally this bias voltage should be 1/2 Vcc or 2.5 volt. Because of the DC path to ground over R23 and potmeter R8 (20K) the bias will go below 2 volt depending on the setting of R8.
 <p></p>
