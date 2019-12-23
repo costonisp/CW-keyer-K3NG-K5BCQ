@@ -29,7 +29,7 @@ A 3D-PRINT BOX for the keyer:
 <p><img src="images/prototype.jpg" alt="3D prototype box"></a></p> 
 
 This is the 3D-box prototype, not very beatifull printed but it fits very well.
-<p><img src="https://tweakers.net/ext/f/EGXxkDKps2yvm56MR3zzpouV/full.jpg"></P>
+<p><img src="images/prototype.jpg"></P>
 
 The files for this 3D box for this keyer can be found on Tinkercad.com
 
