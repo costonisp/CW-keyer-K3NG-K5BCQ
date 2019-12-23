@@ -13,7 +13,7 @@ De gebruikte PCB:
 De PCB kan besteld worden bij K5BCQ :  https://www.qsl.net/k5bcq/Kits/Kits.html
 <p></p> <p></p> 
 Het schema:
-<p><a href="images/Schematic_BIG-Keyer_Sheet-1_20190329121109.pdf"><img src="https://tweakers.net/ext/f/elTAO6eseECHqjtvumKuSjQS/medium.jpg"></a></p>   
+<p><a href="images/Schematic.pdf"><img src="images/SchematicTN.jpg"></a></p>   
 
 Tijdens het bekijken van het schema vonden enige PI4DEC leden de functie van R23 (100 ohm) in het audio input circuit raadselachtig. In het schema is dit aangegeven als een Goertzel Filter, R23 parallel met C6 (0.1uF). De aanwezigheid van R23 hier lijkt nutteloos of zelfs foutief omdat deze de biasspanning op analoge ingang A0 omlaag trekt. Normaal is deze bias spanning 1/2 Vcc of 2.5 volt. Omdat R23 i.c.m. potmeter R8 een DC weg naar massa geeft zal de bias onder 2 volt gaan, afhankelijk van de stand van R8. 
 <p></p>
