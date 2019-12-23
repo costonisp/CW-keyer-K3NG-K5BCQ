@@ -1,9 +1,9 @@
-
+[Contribution guidelines for this project](docs/CONTRIBUTING.md)
 Deze 'fork' van de K3NG Keyer is gemaakt voor een groep PI4DEC leden die dit project gemaakt hebben met de K5BCQ pcb.
 
-Software documentatie staat hier:  https://github.com/k3ng/k3ng_cw_keyer/wiki
+[Software documentatie staat op K3NG github](https://github.com/k3ng/k3ng_cw_keyer/wiki)
 
-Hardware documentatie staat hier: https://www.qsl.net/k5bcq/Kits/Keyer.pdf
+[Hardware documentatie staat op K5BCQ webpagina](https://www.qsl.net/k5bcq/Kits/Keyer.pdf)
 
 De gebruikte PCB:
 <p><a href="images/pcb_layout.jpg"><img src="images/pcb-thumbnail.jpeg" alt="K5BCQ - PCB" style="max-width:100%;"></a></p>   
