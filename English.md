@@ -2,17 +2,17 @@
 <p><a href="/Nederlands.md">Link  naar de Nederlandse Readme file.</a></p>
 
 This fork of the K3NG Keyer is prepared for a group of PI4DEC members who made this project with K5BCQ hardware.
-The software documentation is located here:  https://github.com/k3ng/k3ng_cw_keyer/wiki
+[The software documentation is located on K3NG github page](https://github.com/k3ng/k3ng_cw_keyer/wiki)
 
 
-The hardware documentation can be found here: https://www.qsl.net/k5bcq/Kits/Keyer.pdf
+[Hardware documentation can be found at K5BCQ web pagina](https://www.qsl.net/k5bcq/Kits/Keyer.pdf)
 
 The used PCB:
-<p><a href="images/pcb_layout.jpg"><img src="images/pcb-thumbnail.jpeg" alt="K5BCQ - PCB" style="max-width:100%;"></a></p>   
+<p><a href="images/pcb_layout.jpg"><img src="images/pcb-thumbnail.jpeg"></a></p>   
 <p></p> 
 
 
-The PCB can be ordered from K5BCQ here:  https://www.qsl.net/k5bcq/Kits/Kits.html
+[The PCB can be ordered directly from K5BCQ](https://www.qsl.net/k5bcq/Kits/Kits.html)
 <p></p> <p></p> 
 The schematic:
 <p><a href="images/Schematic.pdf"><img src="images/SchematicTN.jpg"></a></p>   
@@ -26,7 +26,7 @@ So we have tested de decoding circuit with and without R23 while potmeter R8 was
 
 A 3D-PRINT BOX for the keyer:
 
-<p><img src="images/prototype.jpg" alt="3D prototype box" style="max-width:100%;"></a></p> 
+<p><img src="images/prototype.jpg" alt="3D prototype box"></a></p> 
 
 This is the 3D-box prototype, not very beatifull printed but it fits very well.
 <p><img src="https://tweakers.net/ext/f/EGXxkDKps2yvm56MR3zzpouV/full.jpg"></P>
