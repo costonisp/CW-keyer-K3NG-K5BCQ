@@ -32,7 +32,7 @@ Naar keuze kan de deksel of het hele kastje met een primer en daarna in een kleu
 
 The files voor ket kastje en de deksel staan op Tinkercad.com
 
-Kastje  : https://www.tinkercad.com/things/8LZc6XmkHG3-box-for-k3ng-k5bcq-cw-keyer
+Kastje  : https://www.tinkercad.com/things/8LZc6XmkHG3
 
 Deksel-1: https://www.tinkercad.com/things/4jNfGvMzsKl
 
