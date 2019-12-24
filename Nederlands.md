@@ -34,11 +34,11 @@ The files voor ket kastje en de deksel staan op Tinkercad.com
 
 Kastje  : https://www.tinkercad.com/things/8LZc6XmkHG3-box-for-k3ng-k5bcq-cw-keyer
 
-Deksel-1: https://www.tinkercad.com/things/4jNfGvMzsKl-lid-on-box-k3ng-k5bcq-keyer
+Deksel-1: https://www.tinkercad.com/things/4jNfGvMzsKl
 
-Deksel-2: https://www.tinkercad.com/things/jEVnRsXiihz-lid-big-hole-k3ng-k5bcq-keyer
+Deksel-2: https://www.tinkercad.com/things/jEVnRsXiihz
 
-Deksel-3: 
+Deksel-3: https://www.tinkercad.com/things/6QCIQl3qeqy
 
 In de rand v/h kastje zijn gaten voorzien waarin deze draadbussen passen:
 
