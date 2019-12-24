@@ -21,7 +21,7 @@ Een is een 3Dprint kastje voor de keyer ontworpen, de geprintte deksel is eerst 
 
 [![](images/photo-1tn.jpg)](images/photo-1.jpg) | - | [![](images/photo-2tn.jpg)](images/photo-2.jpg)
 ------------------ | ---- | -------------------
-[](images/deksel1.jpg) | [](images/deksel2.jpg) | [](images/deksel1.jpg)
+![](images/deksel1.jpg) | ![](images/deksel2.jpg) | ![](images/deksel1.jpg)
 
 **deksel 1** |  **deksel 2**  |  **deksel 3**
 
