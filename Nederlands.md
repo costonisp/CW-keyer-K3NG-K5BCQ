@@ -7,9 +7,9 @@ Deze 'fork' van de K3NG Keyer is gemaakt door PI4DEC leden die dit project gemaa
 De gebruikte PCB:
 [![](images/pcb-thumbnail.jpeg)](images/pcb_layout.jpg)    
 
-
 [De PCB kan besteld worden bij K5BCQ](https://www.qsl.net/k5bcq/Kits/Kits.html)
-<p></p> <p></p> 
+<p> </p> 
+<p> </p> 
 
 Het schema:
 [![](images/SchematicTN.jpg)](images/Schematic.pdf)
