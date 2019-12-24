@@ -25,18 +25,20 @@ Een is een 3Dprint kastje voor de keyer ontworpen, de geprintte deksel is eerst 
 **deksel 1** |  **deksel 2**  |  **deksel 3**
 
 
-Er zijn 3 verschillende frontjes (deksels)  ontworpen.
+Er zijn 3 verschillende frontjes (deksels)  ontworpen. Deksels 1 en 2 hebben een verhoogd kader rondom het gat voor de display. Deksel 3 is vlak en ondersteboven geprint zodat de vlakke onderkant als bovenkant gebruikt wordt. 
+deksel 1 heeft een 6mm gat en is voor schakelaars met een lange as, deksels 2 en 3 zijn geschikty voor korte asjes, de knop steekt dan in het kastje.
+
+Naar keuze kan de deksel of het hele kastje met een primer en daarna in een kleurtje gespoten worden.
+
 The files voor ket kastje en de deksel staan op Tinkercad.com
 
-Kastje   : https://www.tinkercad.com/things/8LZc6XmkHG3-box-for-k3ng-k5bcq-cw-keyer
-
-
-<p><img src="images/deksels.jpg" alt="3D prototype box"></a></p> 
-Indien de as van de rotary encoder te kort is gebruik dan deksel2 met een groter gat, zodat een 14mm diameter knop verzonken op de as past.
+Kastje  : https://www.tinkercad.com/things/8LZc6XmkHG3-box-for-k3ng-k5bcq-cw-keyer
 
 Deksel-1: https://www.tinkercad.com/things/4jNfGvMzsKl-lid-on-box-k3ng-k5bcq-keyer
 
 Deksel-2: https://www.tinkercad.com/things/jEVnRsXiihz-lid-big-hole-k3ng-k5bcq-keyer
+
+Deksel-3: 
 
 In de rand v/h kastje zijn gaten voorzien waarin deze draadbussen passen:
 
