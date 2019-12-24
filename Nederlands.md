@@ -10,6 +10,7 @@ De gebruikte PCB:
 
 [De PCB kan besteld worden bij K5BCQ](https://www.qsl.net/k5bcq/Kits/Kits.html)
 <p></p> <p></p> 
+
 Het schema:
 [![](images/SchematicTN.jpg)](images/Schematic.pdf)
 
