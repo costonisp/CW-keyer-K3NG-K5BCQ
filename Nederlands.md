@@ -21,7 +21,7 @@ Een is een 3Dprint kastje voor de keyer ontworpen, de geprintte deksel is eerst 
 
 [![](images/photo-1tn.jpg)](images/photo-1.jpg) | - | [![](images/photo-2tn.jpg)](images/photo-2.jpg)
 ------------------ | ---- | -------------------
-https://www.tinkercad.com/things/4jNfGvMzsKl-lid-on-box-k3ng-k5bcq-keyer | https://www.tinkercad.com/things/jEVnRsXiihz-lid-big-hole-k3ng-k5bcq-keyer |
+![](www.tinkercad.com/things/4jNfGvMzsKl-lid-on-box-k3ng-k5bcq-keyer) | ![](https://www.tinkercad.com/things/jEVnRsXiihz-lid-big-hole-k3ng-k5bcq-keyer) |
 **deksel 1** |  **deksel 2**  |  **deksel 3**
 
 
