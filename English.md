@@ -1,26 +1,3 @@
-Er zijn 3 verschillende frontjes (deksels)  ontworpen. Deksels 1 en 2 hebben een verhoogd kader rondom het gat voor de display. Deksel 3 is vlak en ondersteboven geprint zodat de vlakke onderkant als bovenkant gebruikt wordt. 
-deksel 1 heeft een 6mm gat en is voor schakelaars met een lange as, deksels 2 en 3 zijn geschikty voor korte asjes, de knop steekt dan in het kastje.
-
-Naar keuze kan de deksel of het hele kastje met een primer en daarna in een kleurtje gespoten worden.
-
-The files voor ket kastje en de deksel staan op Tinkercad.com
-
-Kastje  : https://www.tinkercad.com/things/8LZc6XmkHG3
-
-Deksel-1: https://www.tinkercad.com/things/4jNfGvMzsKl
-
-Deksel-2: https://www.tinkercad.com/things/jEVnRsXiihz
-
-Deksel-3: https://www.tinkercad.com/things/6QCIQl3qeqy
-
-In de rand v/h kastje zijn gaten voorzien waarin deze draadbussen passen:
-
-https://www.conrad.nl/p/bopla-gewindebuchsen-dodge-m3x65-draadbus-messing-messing-1-stuks-540005
-
-Zodat het deksel met M3 boutjes vastgezet kan worden.
-
-====================================================================================================================
-
 This 'fork' of the K3NG Keyer is prepared by PI4DEC members who made this project with K5BCQ PCB.
 
 [Software documentation is located on K3NG github page](https://github.com/k3ng/k3ng_cw_keyer/wiki)
