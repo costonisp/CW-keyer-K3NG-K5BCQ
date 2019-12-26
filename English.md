@@ -34,7 +34,7 @@ Front-2: https://www.tinkercad.com/things/jEVnRsXiihz
 
 Front-3: https://www.tinkercad.com/things/6QCIQl3qeqy
 
-In the sidewalls of the box are 4  holes which will fit for these 
-[threaded busses](htps://www.conrad.nl/p/bopla-gewindebuchsen-dodge-m3x65-draadbus-messing-messing-1-stuks-540005)
+In the sidewalls of the box are 4  holes which will fit for these threaded busses
+htps://www.conrad.nl/p/bopla-gewindebuchsen-dodge-m3x65-draadbus-messing-messing-1-stuks-540005
 
 Now the lid can be bolted to the box. There is also a small stand that can be mounted to the side. Then enclosure can be used standing up.
