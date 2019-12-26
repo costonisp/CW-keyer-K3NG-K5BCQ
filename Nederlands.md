@@ -19,7 +19,7 @@ We hebben wat testen gedaan met en later zonder R23 terwijl potmeter R8 halverwe
 
 Een is een 3Dprint kastje voor de keyer ontworpen, de geprintte deksel is eerst glad geschuurd en daarna met een spuitbus grijze primer gespoten. Dit geeft het kastje een degelijke uitstraling.
 
-[![](images/photo-1tn.jpg)](images/photo-1.jpg) | - | [![](images/photo-2tn.jpg)](images/photo-2.jpg)
+[![](images/photo-1tn.jpg)](images/photo-1.jpg) | [![](images/BoxFinished.jpg)](images/BoxFinished.jpg) | [![](images/photo-2tn.jpg)](images/photo-2.jpg)
 ------------------ | ---- | -------------------
 ![](images/deksel1.jpg) | ![](images/deksel2.jpg) | ![](images/deksel3.jpg)
 **deksel 1** |  **deksel 2**  |  **deksel 3**
