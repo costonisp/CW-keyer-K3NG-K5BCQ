@@ -15,7 +15,7 @@ The K5BCQ PCB:                                       | Schematic:
 
 There is a design for a 3D-printed enclosure, the printed lid can be grinded smooth and sprayed with a primer. This makes the enclosure look more solid.
 
-[![](images/photo-1tn.jpg)](images/photo-1.jpg) | [![(images/BoxFinished.jpg)](images/BoxFinished.jpg) | [![](images/photo-2tn.jpg)](images/photo-2.jpg)
+[![](images/photo-1tn.jpg)](images/photo-1.jpg) | [![](images/BoxFinished.jpg)](images/BoxFinished.jpg) | [![](images/photo-2tn.jpg)](images/photo-2.jpg)
 ------------------ | ---- | -------------------
 ![](images/deksel1.jpg) | ![](images/deksel2.jpg) | ![](images/deksel3.jpg)
 **front 1** |  **front 2**  |  **front 3**
