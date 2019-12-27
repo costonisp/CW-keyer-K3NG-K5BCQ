@@ -77,3 +77,27 @@ In bovenstaand schema, zijn alle benodigde onderdelen en aansluitingen zoals dez
 ### De printplaat
 
 ![](printplaat.jpg)
+
+Er is op de printplaat qua aansluitingen voorzien in :
+    • Een aansluiting voor een normale seinsleutel of paddels
+    • Een audio ingang voor de CW decoder
+    • Een audio uitgang voor bv een hoofdtelefoon
+    • Een luidspreker aansluiting
+    • 2 onafhankelijk te gebruiken Keyer – uitgangen, TX aansluiting
+    • Een PS2 keyboard aansluiting
+    • Een 3x4 of 4x4 toetsenbord aansluiting
+    • Een parallel display aansluiting voor een 16x2, 16x4 of 20x4 LCD display
+    • Een aparte I2C (Seriële bus) aansluiting
+    • 2 aparte Seriële bus aansluitingen voor diverse toepassingen
+    • Een Rotary Encoder voor snelheidsinstellingen
+    • Een Commando Mode drukknop via de Rotary Encoder Switch
+    • 7 programmeerbare geheugen drukknoppen
+    • 4 Led signaleringen
+    • Een instelbaar side-tone filter
+    • Een micro USB aansluiting voor programmering of voeding van de Mega2560
+    • Een aparte 7-12 Volt voedingsaansluiting
+    • Een aan/uit schakelaar aansluiting
+
+
+Alle onderdelen worden op de voorzijde van de print gemonteerd, met uitzondering van de Arduino Mega2560 Pro Mini.  Die wordt op een speciale manier met headers gemonteerd op de achterzijde van de printplaat.
+Zoals eerder aangegeven kunnen we verschillende afmetingen displays worden toegepast. Ook het display wordt middels een 16 polige male / female header gemonteerd, net zoals we dat ook al bij voorgaande projecten hebben gedaan.  Het is dus ook mogelijk om bijvoorbeeld bij inbouw in een kastje het display met een korte bandkabel te monteren.
