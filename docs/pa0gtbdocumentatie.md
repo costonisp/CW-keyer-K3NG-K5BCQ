@@ -68,6 +68,12 @@ uitvoering van bijvoorbeeld Robotdyn, met mini-USB aansluiting is de juiste vers
 <u>Opmerking </u> : 
 Er zijn ook aanbiedingen op diverse websites te vinden, waarbij de benodigde dubbele Pin headers al in de levering zijn inbegrepen. Een kwestie van even verder kijken dus.
 
+### Het Schema
+
 ![](schema.jpg)
 
+In bovenstaand schema, zijn alle benodigde onderdelen en aansluitingen zoals deze voor de printplaat benodigd zijn ingetekend.
 
+### De printplaat
+
+![](printplaat.jpg)
