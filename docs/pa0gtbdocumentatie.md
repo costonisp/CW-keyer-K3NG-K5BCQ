@@ -58,12 +58,12 @@ Ik had het geluk dat ik als een van zijn Beta-testers mocht fungeren !  Ik heb 2
     
 ### Hardware opbouw van het K5BCQ ontwerp
 
-![](Arduino2560Mini.jpg) |  Het hele ontwerp is opgebouwd rondom een kleinere versie  van de Arduino Mega2560, namelijk de Arduino Mega2560 Pro Mini.
+![](Arduino2560Mini.jpg) |  *** Het hele ontwerp is opgebouwd rondom een kleinere versie  van de Arduino Mega2560, namelijk de Arduino Mega2560 Pro Mini.
 --------- | --------------
 
-![](Arduino2560Mini.jpg)  Het hele ontwerp is opgebouwd rondom een kleinere versie  van de Arduino Mega2560, namelijk de Arduino Mega2560 Pro Mini.
-Deze verkleinde uitvoering is qua capaciteit en mogelijkheden
-gelijk aan zijn grote broer, de Mega2560.  Van deze versie Arduino, bestaan meerdere uitvoeringen. Alleen de “Zwarte printplaat” 
+![](Arduino2560Mini.jpg)  Het hele ontwerp is opgebouwd rondom een kleinere versie  van de Arduino Mega2560, namelijk de Arduino Mega2560 Pro Mini. 
+
+Deze verkleinde uitvoering is qua capaciteit en mogelijkheden gelijk aan zijn grote broer, de Mega2560.  Van deze versie Arduino, bestaan meerdere uitvoeringen. Alleen de “Zwarte printplaat” 
 uitvoering van bijvoorbeeld Robotdyn, met mini-USB aansluiting is de juiste versie.  Let daar op als je dit project gaat bouwen !.
 
 <u>Opmerking :</u>
