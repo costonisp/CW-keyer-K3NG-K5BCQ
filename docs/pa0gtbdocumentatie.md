@@ -58,7 +58,7 @@ Ik had het geluk dat ik als een van zijn Beta-testers mocht fungeren !  Ik heb 2
     
 ### Hardware opbouw van het K5BCQ ontwerp
 
-![](Arduino2560Mini.jpg) |   Het hele ontwerp is opgebouwd rondom een kleinere versie  van de Arduino Mega2560, namelijk de Arduino Mega2560 Pro Mini.
+![](Arduino2560Mini.jpg) |  > Het hele ontwerp is opgebouwd rondom een kleinere versie  van de Arduino Mega2560, namelijk de Arduino Mega2560 Pro Mini.
 ----------- | --------------
 
 ![](Arduino2560Mini.jpg)  Het hele ontwerp is opgebouwd rondom een kleinere versie  van de Arduino Mega2560, namelijk de Arduino Mega2560 Pro Mini. 
