@@ -12,7 +12,7 @@ De gebruikte PCB:                                       | Het schema:
 [De PCB kan besteld worden bij K5BCQ](https://www.qsl.net/k5bcq/Kits/Kits.html)
    (*via DEC of PA0GTB zijn nog enige printen beschikbaar*)
 
-[Nederlandstalige documentatie van de hand van PA0GTB](docs/2019_Arduino_voor_radioamateurs_deel_10)
+[Nederlandstalige documentatie van de hand van PA0GTB](docs/2019_Arduino_voor_radioamateurs_deel_10.docx)
 
 [Onderdelenlijst voor de keyer](docs/bom-cw-keyer.docx)
 
