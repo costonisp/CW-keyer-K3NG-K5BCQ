@@ -65,7 +65,7 @@ Deze verkleinde uitvoering is qua capaciteit en mogelijkheden
 gelijk aan zijn grote broer, de Mega2560.  Van deze versie Arduino, bestaan meerdere uitvoeringen. Alleen de “Zwarte printplaat” 
 uitvoering van bijvoorbeeld Robotdyn, met mini-USB aansluiting is de juiste versie.  Let daar op als je dit project gaat bouwen !.
 
-++Opmerking :++
+<span style="text-decoration: underline">Opmerking :</span>
 
 Er zijn ook aanbiedingen op diverse websites te vinden, waarbij de benodigde dubbele Pin headers al in de levering zijn inbegrepen. Een kwestie van even verder kijken dus.
 
