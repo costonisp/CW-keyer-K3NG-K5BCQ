@@ -58,7 +58,7 @@ Ik had het geluk dat ik als een van zijn Beta-testers mocht fungeren !  Ik heb 2
     
 ### Hardware opbouw van het K5BCQ ontwerp
 
-**H**et hele ontwerp is opgebouwd rondom een kleinere versie  van de Arduino Mega2560, namelijk de Arduino Mega2560 Pro Mini. | ![](Arduino2560Mini.jpg)
+**H**et hele ontwerp is opgebouwd rondom een kleinere versie  van de Arduino Mega2560, namelijk de Arduino Mega2560 Pro Mini. | ![](../images/Arduino2560Mini.jpg)
 ----------- | --------------
 
 
@@ -70,13 +70,13 @@ Er zijn ook aanbiedingen op diverse websites te vinden, waarbij de benodigde dub
 
 ### Het Schema
 
-![](schema.jpg)
+![](../images/schema.jpg)
 
 In bovenstaand schema, zijn alle benodigde onderdelen en aansluitingen zoals deze voor de printplaat benodigd zijn ingetekend.
 
 ### De printplaat
 
-![](printplaat.jpg)
+![](../images/printplaat.jpg)
 
 Er is op de printplaat qua aansluitingen voorzien in :
     • Een aansluiting voor een normale seinsleutel of paddels
