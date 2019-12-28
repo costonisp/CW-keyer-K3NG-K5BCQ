@@ -6,15 +6,15 @@ Deze 'fork' van de K3NG Keyer is gemaakt door PI4DEC leden die dit project gemaa
 
 [De PCB kan besteld worden bij K5BCQ](https://www.qsl.net/k5bcq/Kits/Kits.html)
 
-[![](images/pcb-thumbnail.jpeg)](images/pcb_layout.jpg) |  [![](images/SchematicTN.jpg)](images/Schematic.pdf)
+[![](../images/pcb-thumbnail.jpeg)](../images/pcb_layout.jpg) |  [![](../images/SchematicTN.jpg)](../images/Schematic.pdf)
 ------------------------------------------------------- | ----------------------------------------------------
 De gebruikte PCB:                                       | Het schema:
 
-[Nederlandstalige documentatie van de hand van PA0GTB](docs/2019_Arduino_voor_radioamateurs_deel_10.docx)
+[Nederlandstalige documentatie van de hand van PA0GTB](2019_Arduino_voor_radioamateurs_deel_10.docx)
 
 *n.b. via DEC of PA0GTB zijn nog enige printen beschikbaar*
 
-[Onderdelenlijst voor de keyer](docs/bom-cw-keyer.docx)
+[Onderdelenlijst voor de keyer](bom-cw-keyer.docx)
 
 Tijdens het bekijken van het schema vonden enige PI4DEC leden de functie van R23 (100 ohm) in het audio input circuit raadselachtig. In het schema is dit aangegeven als een Goertzel Filter, R23 parallel met C6 (0.1uF). De aanwezigheid van R23 hier lijkt nutteloos of zelfs foutief omdat deze de biasspanning op analoge ingang A0 omlaag trekt. Normaal is deze bias spanning 1/2 Vcc of 2.5 volt. Omdat R23 i.c.m. potmeter R8 een DC weg naar massa geeft zal de bias onder 2 volt gaan, afhankelijk van de stand van R8.
 
@@ -24,9 +24,9 @@ We hebben wat testen gedaan met en later zonder R23 terwijl potmeter R8 halverwe
 
 Een is een 3Dprint kastje voor de keyer ontworpen, de geprintte deksel is eerst glad geschuurd en daarna met een spuitbus grijze primer gespoten. Dit geeft het kastje een degelijke uitstraling.
 
-[![](images/photo-1tn.jpg)](images/photo-1.jpg) | [![](images/BoxFinished.jpg)](images/BoxFinished.jpg) | [![](images/photo-2tn.jpg)](images/photo-2.jpg)
+[![](../images/photo-1tn.jpg)](../images/photo-1.jpg) | [![](../images/BoxFinished.jpg)](../images/BoxFinished.jpg) | [![](../images/photo-2tn.jpg)](../images/photo-2.jpg)
 ------------------ | ---- | -------------------
-![](images/deksel1.jpg) | ![](images/deksel2.jpg) | ![](images/deksel3.jpg)
+![](../images/deksel1.jpg) | ![](../images/deksel2.jpg) | ![](../images/deksel3.jpg)
 **deksel 1** |  **deksel 2**  |  **deksel 3**
 
 
