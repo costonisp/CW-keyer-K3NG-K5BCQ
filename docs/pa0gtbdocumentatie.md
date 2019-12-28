@@ -26,7 +26,8 @@ Ik had het geluk dat ik als een van zijn Beta-testers mocht fungeren !  Ik heb 2
     • Logging en Contest Program Interfacing via K1EL Winkey 1.0 en 2.0 interface protocol emulatie.
     • Command Line Interface (CLI) 
     • PTT-uitvoeringen met instelbare lead-, tail- en hangtijden. 
-    • LCD Display aansluiting. 16x2, 16x4 en 20x4 LCD displays zijn mogelijk.  Zowel parallel als I2C bus aansluiting. 
+    • LCD Display aansluiting. 16x2, 16x4 en 20x4 LCD displays zijn mogelijk.  
+      Zowel parallel als I2C bus aansluiting. 
     • Tot 12 geheugens met macro's. ( 7 met knoppen uitgevoerd op de print)
     • Het gebruik van Serienummers. ( bv voor Contesten).
     • CW toetsenbord (via een terminal server programma zoals Termite of de Arduino Serial monitor). 
