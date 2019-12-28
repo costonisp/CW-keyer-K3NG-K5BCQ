@@ -17,9 +17,9 @@ De gebruikte PCB:                                       | Het schema:
 
 Nederlandse documentatie is ook te downloaden in .docx formaat
 
-[Nederlandstalige documentatie van de hand van Cor Struyk - PA0GTB](2019_Arduino_voor_radioamateurs_deel_10.docx)
+[2019_Arduino_voor_radioamateurs_deel_10.docx](2019_Arduino_voor_radioamateurs_deel_10.docx)
 
-[Onderdelenlijst voor de keyer](bom-cw-keyer.docx)
+[bom-cw-keyer.docx](bom-cw-keyer.docx)
 
 Tijdens het bekijken van het schema vonden enige PI4DEC leden de functie van R23 (100 ohm) in het audio input circuit raadselachtig. In het schema is dit aangegeven als een Goertzel Filter, R23 parallel met C6 (0.1uF). De aanwezigheid van R23 hier lijkt nutteloos of zelfs foutief omdat deze de biasspanning op analoge ingang A0 omlaag trekt. Normaal is deze bias spanning 1/2 Vcc of 2.5 volt. Omdat R23 i.c.m. potmeter R8 een DC weg naar massa geeft zal de bias onder 2 volt gaan, afhankelijk van de stand van R8.
 
