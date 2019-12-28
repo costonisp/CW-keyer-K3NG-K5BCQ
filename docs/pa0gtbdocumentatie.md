@@ -158,4 +158,5 @@ In de ZIP file zit  :
     • Hints en tips over verkrijgbaarheid van specifieke onderdelen
 
 Veel succes met de nabouw van dit mooie  K5BCQ / K3NG CW keyer / decoder project
+
 73 de Cor, PA0GTB
