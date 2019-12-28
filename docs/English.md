@@ -4,7 +4,7 @@ This 'fork' of the K3NG Keyer is designed by PI4DEC members who made this projec
 
 [Hardware documentation can be found at K5BCQ web pagina](https://www.qsl.net/k5bcq/Kits/Keyer.pdf)
 
-[![](images/pcb-thumbnail.jpeg)](images/pcb_layout.jpg) |  [![](images/SchematicTN.jpg)](images/Schematic.pdf)
+[![](../images/pcb-thumbnail.jpeg)](images/pcb_layout.jpg) |  [![](../images/SchematicTN.jpg)](images/Schematic.pdf)
 ------------------------------------------------------- | ----------------------------------------------------
 The K5BCQ PCB:                                       | Schematic:
 
@@ -15,9 +15,9 @@ So we did some tests with and later without R23, while potmeter R8 was set halfw
 
 There is a design for a 3D-printed enclosure, the printed lid can be grinded smooth and sprayed with a primer. This makes the enclosure look more solid.
 
-[![](images/photo-1tn.jpg)](images/photo-1.jpg) | [![](images/BoxFinished.jpg)](images/BoxFinished.jpg) | [![](images/photo-2tn.jpg)](images/photo-2.jpg)
+[![](../images/photo-1tn.jpg)](../images/photo-1.jpg) | [![](../images/BoxFinished.jpg)](../images/BoxFinished.jpg) | [![](../images/photo-2tn.jpg)](../images/photo-2.jpg)
 ------------------ | ---- | -------------------
-![](images/deksel1.jpg) | ![](images/deksel2.jpg) | ![](images/deksel3.jpg)
+![](../images/deksel1.jpg) | ![](../images/deksel2.jpg) | ![](../images/deksel3.jpg)
 **front 1** |  **front 2**  |  **front 3**
 
 There is a design for three different fronts. front 1 and 2 have a framework arond the display. Front 3 is smooth and must be used reversed so the smooth bottom will be on top. 
