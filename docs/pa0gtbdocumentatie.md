@@ -109,3 +109,7 @@ Zoals eerder aangegeven kunnen we verschillende afmetingen displays worden toege
 
 ![](../images/compleet.jpg) | ![](../images/compleetopzij.jpg)
 -------- | --------
+
+##### Arduino Mega2560 Pro Mini wordt gemonteerd middels Male/Female headers op de onderzijde van de printplaat
+
+
