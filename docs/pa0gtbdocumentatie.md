@@ -132,7 +132,8 @@ Pak vervolgens de Zipfile uit, en installeer alle files zoals hierboven beschrev
 
 ### Documentatie K3NG CW keyer algemeen
 Een dergelijk uitgebreid project met zoveel opties en mogelijkheden, kan natuurlijk niet zonder documentatie. Op de Github website https://github.com/k3ng/.k3ng_keyer/wiki  vindt je een uitgebreide documentatie over dit mooie K3NG keyer ontwerp.
-Documentatie K3NG bouwproject van Kees, K5BCQ
+
+### Documentatie K3NG bouwproject van Kees, K5BCQ
 De specifieke  documentatie over dit bouwproject zelf, zal door mij via de VERON downloadsite beschikbaar worden gesteld.
 
 ### Onderdelen, printplaat en bouwpakket
