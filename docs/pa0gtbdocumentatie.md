@@ -107,5 +107,5 @@ In bovenstaand schema, zijn alle benodigde onderdelen en aansluitingen zoals dez
 Alle onderdelen worden op de voorzijde van de print gemonteerd, met uitzondering van de Arduino Mega2560 Pro Mini.  Die wordt op een speciale manier met headers gemonteerd op de achterzijde van de printplaat.
 Zoals eerder aangegeven kunnen we verschillende afmetingen displays worden toegepast. Ook het display wordt middels een 16 polige male / female header gemonteerd, net zoals we dat ook al bij voorgaande projecten hebben gedaan.  Het is dus ook mogelijk om bijvoorbeeld bij inbouw in een kastje het display met een korte bandkabel te monteren.
 
-![](../images/compleet.jpg) | ![](../images/compleetzij.jpg)
+![](../images/compleet.jpg) | ![](../images/compleetopzij.jpg)
 -------- | --------
