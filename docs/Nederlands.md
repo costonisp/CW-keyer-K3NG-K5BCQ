@@ -10,9 +10,11 @@ Deze 'fork' van de K3NG Keyer is gemaakt door PI4DEC leden die dit project gemaa
 ------------------------------------------------------- | ----------------------------------------------------
 De gebruikte PCB:                                       | Het schema:
 
+
+
 [Nederlandstalige documentatie van de hand van PA0GTB](2019_Arduino_voor_radioamateurs_deel_10.docx)
 
-*n.b. via DEC of PA0GTB zijn nog enige printen beschikbaar*
+###### *n.b. via DEC of PA0GTB zijn nog enige printen beschikbaar*
 
 [Onderdelenlijst voor de keyer](bom-cw-keyer.docx)
 
