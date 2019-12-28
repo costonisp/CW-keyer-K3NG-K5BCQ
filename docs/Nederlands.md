@@ -12,7 +12,7 @@ De gebruikte PCB:                                       | Het schema:
 
 
 
-[Nederlandstalige documentatie van de hand van Cor Struyk - PA0GTB](2019_Arduino_voor_radioamateurs_deel_10.docx)
+[Nederlandstalige documentatie van de hand van Cor Struyk - PA0GTB](2019_Arduino_voor_radioamateurs_deel_10.docx) 
 ###### *n.b. via DEC of PA0GTB zijn nog enige printen beschikbaar*
 
 [Onderdelenlijst voor de keyer](bom-cw-keyer.docx)
