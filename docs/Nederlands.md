@@ -11,8 +11,7 @@ Deze 'fork' van de K3NG Keyer is gemaakt door PI4DEC leden die dit project gemaa
 De gebruikte PCB:                                       | Het schema:
 
 #### Documentatie:
-[Nederlandstalige documentatie van de hand van Cor Struyk - PA0GTB](PAOGTB_documentatie.md)
-
+[Nederlandstalige documentatie van de hand van Cor Struyk - PA0GTB](/PA0GTB_documentatie.md)
 ###### *n.b. via DEC of PA0GTB zijn nog enige printen beschikbaar*
 
 Deze documentatie is ook te downloaden in .docx formaat
