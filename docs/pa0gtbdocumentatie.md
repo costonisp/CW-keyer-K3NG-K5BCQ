@@ -112,4 +112,51 @@ Zoals eerder aangegeven kunnen we verschillende afmetingen displays worden toege
 
 ##### Arduino Mega2560 Pro Mini wordt gemonteerd middels Male/Female headers op de onderzijde van de printplaat
 
+### De sketch en libraries
 
+Vanwege de vele opties en het kunnen instellen op persoonlijk gebruik, bestaat de software niet alleen uit een grote sketch en noodzakelijke libraries, maar ook uit een aantal hulp-instellings-files.
+De belangrijkste instellingfiles, waar je naast de sketch de opties in opgeeft waar je gebruik van wil maken, bestaan uit :
+
+    • keyer_featues_and_options.h
+    • keyer_pin_settings.h
+    • keyer_settings.h
+    • keyer.h
+
+Er zijn er nog wel een aantal, maar daar hoef je in principe geen veranderingen in aan te brengen.
+De benodigde libraries komen uiteraard in je Library folder te staan.  Om geen problemen te krijgen met reeds bestaande libraries, is het aan te bevelen om bestaande libraries in de folder Libraries, tijdelijk even op een ander plaats neer te zetten, zodat conflicten worden vermeden.
+De sketch : k3ng_keyer.ino en alle benodigde hulp-instellings-files, <naam>.h,  dienen bij elkaar in een folder te komen staan. Bijvoorbeeld : C: \documenten\Arduino\Je_call\..........
+
+Regelmatig verschijnen er updates en aanvullingen op deze programmatuur. Ook de auteur, K3NG zelf, stuurt nog regelmatig uitbreidingen. Het is daarom verstandig om alle benodigde programmatuur en libraries zelf te downloaden op :
+https://github.com/k3ng/k3ng_cw_keyer
+Download daar via de GROENE KNOP de hele Zipfile zodat je alle laatste versies van programmatuur en libraries hebt.
+Pak vervolgens de Zipfile uit, en installeer alle files zoals hierboven beschreven.
+
+### Documentatie K3NG CW keyer algemeen
+
+Een dergelijk uitgebreid project met zoveel opties en mogelijkheden, kan natuurlijk niet zonder documentatie. Op de Github website https://github.com/k3ng/.k3ng_keyer/wiki  vindt je een uitgebreide documentatie over dit mooie K3NG keyer ontwerp.
+Documentatie K3NG bouwproject van Kees, K5BCQ
+De specifieke  documentatie over dit bouwproject zelf, zal door mij via de VERON downloadsite beschikbaar worden gesteld.
+
+### Onderdelen, printplaat en bouwpakket
+Buiten de printplaat zijn alle onderdelen via Arduino ondersteunende electronica-shops of via Ebay en Aliexpress verkrijgbaar. Let er bij de aanschaf van de Arduino Mega2560 Pro Mini op,  dat je de uitvoering met zwarte printplaat van Robotdyn neemt, welke ook voorzien is van een micro-USB aansluiting en zo mogelijk de benodigde Pinheaders.
+
+De printplaat zelf zou in principe via Kees, K5BCQ moeten worden aangeschaft. Maar vanwege het feit dat de verzendkosten vanuit de USA naar NL tegenwoordig vrij hoog zijn, heb ik de Gerber-files voor de print beschikbaar. Ik kan je die op verzoek beschikbaar stellen zodat je zelf printen kunt laten maken.
+
+Bij voldoende belangstelling ben ik tevens bereid om een aantal printen te bestellen en te leveren. Zie voor meer informatie de Rubriek Eraan / ErAf op het Veron Techniek Forum ( zie www.veron.nl)
+
+### Praktijkervaringen
+Ik heb de afgelopen jaren verschillende op Arduino gebaseerde uitvoeringen CW decoders en CW keyers gebouwd. Het K3NG ontwerp heeft mij altijd al geboeid, maar ik vond het toen nog te eenzijdig.
+Het nieuwe totaalconcept van Kees, K5BCQ, waarin op 1 printplaat alle extra uitbreidingen en opties van het K3NG ontwerp zijn terug te vinden, inclusief een CW decoder, was een openbaring.
+Ook hier kan de niet CW-kennis-machtige radioamateur via het USB of PS2 keyboard gebruikmaken van alle facetten van een volwaardige CW keyer en decoder.
+In de praktijk is het even zoeken en oefenen om de juiste instellingen te vinden, maar dat eenmaal goed ingesteld is het een perfecte aanvulling in de shack.
+
+### Bijlage voor download
+De bij deze aflevering bijbehorende downloadfile, is weer te vinden op << Veron download site >>. 
+In de ZIP file zit  : 
+    • Het uitgebreide schema
+    • De benodigde onderdelenlijst 
+    • Print aanzicht tekeningen e.d. 
+    • Hints en tips over verkrijgbaarheid van specifieke onderdelen
+
+Veel succes met de nabouw van dit mooie  K5BCQ / K3NG CW keyer / decoder project
+73 de Cor, PA0GTB
