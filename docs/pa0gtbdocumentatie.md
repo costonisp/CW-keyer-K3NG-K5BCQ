@@ -127,6 +127,7 @@ De sketch : k3ng_keyer.ino en alle benodigde hulp-instellings-files, <naam>.h,  
 
 Regelmatig verschijnen er updates en aanvullingen op deze programmatuur. Ook de auteur, K3NG zelf, stuurt nog regelmatig uitbreidingen. Het is daarom verstandig om alle benodigde programmatuur en libraries zelf te downloaden op :
 https://github.com/k3ng/k3ng_cw_keyer
+
 Download daar via de GROENE KNOP de hele Zipfile zodat je alle laatste versies van programmatuur en libraries hebt.
 Pak vervolgens de Zipfile uit, en installeer alle files zoals hierboven beschreven.
 
