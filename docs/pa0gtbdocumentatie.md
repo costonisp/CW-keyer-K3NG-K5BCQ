@@ -30,8 +30,10 @@ Ik had het geluk dat ik als een van zijn Beta-testers mocht fungeren !  Ik heb 2
       Zowel parallel als I2C bus aansluiting. 
     • Tot 12 geheugens met macro's. ( 7 met knoppen uitgevoerd op de print)
     • Het gebruik van Serienummers. ( bv voor Contesten).
-    • CW toetsenbord (via een terminal server programma zoals Termite of de Arduino Serial monitor). 
-    • Snelheid instelbaar met een “Rotary Encoder”. Snelheid is ook instelbaar met commando's QRSS en HSCW. 
+    • CW toetsenbord (via een terminal server programma zoals Termite of de 
+      Arduino Serial monitor). 
+    • Snelheid instelbaar met een “Rotary Encoder”. 
+      Snelheid is ook instelbaar met commando's QRSS en HSCW. 
     • Baken en  Fox modus. 
     • Iambic A en B. 
     • Diverse morse sleutel modus instellingen( standaard, Ultimatic, Iambic, etc..)
@@ -39,7 +41,8 @@ Ik had het geluk dat ik als een van zijn Beta-testers mocht fungeren !  Ik heb 2
     • Paddle reverse. 
     • Hellschreiber modus (toetsenbord verzenden, geheugen macro, baken) Farnsworth Timing. 
     • Instelbare frequentie-sidetone.  
-    • Command modus voor het gebruik van de paddel om instellingen te wijzigen, programma herinneringen, enz. 
+    • Command modus voor het gebruik van de paddel om instellingen te wijzigen, 
+      programma herinneringen, enz. 
     • Keying Compensation. 
     • Dah naar Dit ratio aanpassing. 
     • Diverse CW oefen modus. 
