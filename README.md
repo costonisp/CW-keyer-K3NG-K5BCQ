@@ -1,8 +1,8 @@
 # K3NG - K5BCQ cw keyer
 
-[Link  naar de Nederlandse Readme file.](/Nederlands.md)
+[Link  naar de Nederlandse Readme file.](docs//Nederlands.md)
 
-[Link  to the English Readme file.](/English.md)
+[Link  to the English Readme file.](docs//English.md)
 
 This K3NG Keyer fork is tailord for the K5BCQ Printed Circuit Board.
 
