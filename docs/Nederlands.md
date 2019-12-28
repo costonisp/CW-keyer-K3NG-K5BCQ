@@ -10,10 +10,11 @@ Deze 'fork' van de K3NG Keyer is gemaakt door PI4DEC leden die dit project gemaa
 ------------------------------------------------------- | ----------------------------------------------------
 De gebruikte PCB:                                       | Het schema:
 
-[Nederlandstalige documentatie van de hand van Cor Struyk - PA0GTB](PAOGTD_documentatie.md)
+[Nederlandstalige documentatie van de hand van Cor Struyk - PA0GTB](PAOGTB_documentatie.md)
 
 ###### *n.b. via DEC of PA0GTB zijn nog enige printen beschikbaar*
 Onderstaande documenten zijn te downloaden in .docx formaat
+
 [Nederlandstalige documentatie van de hand van Cor Struyk - PA0GTB](2019_Arduino_voor_radioamateurs_deel_10.docx) in docx formaat
 [Onderdelenlijst voor de keyer](bom-cw-keyer.docx) n.b. in docx formaat
 
